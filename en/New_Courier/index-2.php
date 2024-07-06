@@ -125,21 +125,21 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
         </script>
         <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
         <!-- This site is optimized with the Yoast SEO plugin v15.6.2 - https://yoast.com/wordpress/plugins/seo/ -->
-        <title>Express Courier Limited | End-to-End Domestic &amp; International Logistics Company</title>
+        <title><?php echo $name; ?> | End-to-End Domestic &amp; International Logistics Company</title>
         <link rel="stylesheet" href="wp-content/cache/min/1/7d106dbe116e9bdba61a1111e627559f.css" media="all"
             data-minify="1" />
         <meta name="description"
             content="Looking for a domestic and/or international logistics company? Our 3pl company problem solvers provide logistics solutions tailored to your needs. Contact us for logistics service." />
         <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-        <link rel="canonical" href="index-2.html" />
+        <link rel="canonical" href="index-2.php" />
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="website" />
         <meta property="og:title"
-            content="Express Courier Limited | End-to-End Domestic &amp; International Logistics Company" />
+            content="<?php echo $name; ?> | End-to-End Domestic &amp; International Logistics Company" />
         <meta property="og:description"
             content="Looking for a domestic and/or international logistics company? Our 3pl company problem solvers provide logistics solutions tailored to your needs. Contact us for logistics service." />
-        <meta property="og:url" content="https://expresscourierlimited.com/" />
-        <meta property="og:site_name" content=" Express Courier Limited" />
+        <meta property="og:url" content="<?php echo $url; ?>" />
+        <meta property="og:site_name" content=" <?php echo $name; ?>" />
         <meta property="article:publisher" content="https://www.facebook.com/#/" />
         <meta property="article:modified_time" content="2012-03-04T15:39:21+00:00" />
         <meta name="twitter:card" content="summary_large_image" />
@@ -150,10 +150,10 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
         <link rel='dns-prefetch' href='http://www.google.com/' />
         <link rel='dns-prefetch' href='http://maps.googleapis.com/' />
         <link href='https://fonts.gstatic.com/' crossorigin rel='preconnect' />
-        <link rel="alternate" type="application/rss+xml" title="Express Courier Limited &raquo; Feed"
-            href="feed/index.html" />
-        <link rel="alternate" type="application/rss+xml" title="Express Courier Limited &raquo; Comments Feed"
-            href="comments/feed/index.html" />
+        <link rel="alternate" type="application/rss+xml" title="<?php echo $name; ?> &raquo; Feed"
+            href="feed/index.php" />
+        <link rel="alternate" type="application/rss+xml" title="<?php echo $name; ?> &raquo; Comments Feed"
+            href="comments/feed/index.php" />
 
 
 
