@@ -1024,8 +1024,9 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
             <div class="container-fluid col-lg-8 col-sm-12">
                 <div class="card-body">
                     <div class="image-container">
-                        <img src="./wp-content/uploads/2020/11/omni_logistics_logo_tagline-1.png"
-                            class="card-img-top" />
+                        <a href="<?php echo $url; ?>/"><img
+                                src="./wp-content/uploads/2020/11/omni_logistics_logo_tagline-1.png"
+                                class="card-img-top" /></a>
                     </div>
 
                     <h5>Tracking Your Shipment</h5>
