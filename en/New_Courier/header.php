@@ -7,7 +7,7 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
 ?>
 
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en-US"><?php echo $chat; ?>
 
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
@@ -17,8 +17,8 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
         <!-- be_ixf, sdk, gho-->
         <meta name="be:sdk" content="php_sdk_1.5.1" />
         <meta name="be:timer" content="11ms" />
-        <meta name="be:orig_url" content="<?php echo $url; ?>" />
-        <meta name="be:norm_url" content="<?php echo $url; ?>" />
+        <meta name="be:orig_url" content="<?php echo $url; ?>/" />
+        <meta name="be:norm_url" content="<?php echo $url; ?>/" />
         <meta name="be:capsule_url"
             content="https%3A%2F%2Fixfd-api.bc0a.com%2Fapi%2Fixf%2F1.0.0%2Fget_capsule%2Ff00000000217942%2F0589624984" />
         <meta name="be:api_dt" content="py_2020;pm_10;pd_15;ph_13;pmh_55;p_epoch:1.60277010844E+12" />
@@ -26,6 +26,7 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
         <meta name="be:diag"
             content="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" />
         <meta name="be:messages" content="false" />
+
         <style>
         .be-ix-link-block {
             clear: both;
