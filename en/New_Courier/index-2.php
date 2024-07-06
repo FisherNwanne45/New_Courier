@@ -231,8 +231,6 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
 
 
 
-
-
         <link rel="https://api.w.org/" href="wp-json/index.html" />
         <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/950.json" />
         <link rel='shortlink' href='index-2.php' />
