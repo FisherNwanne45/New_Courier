@@ -235,15 +235,15 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
 
         <link rel="https://api.w.org/" href="wp-json/index.html" />
         <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/950.json" />
-        <link rel='shortlink' href='index-2.html' />
+        <link rel='shortlink' href='index-2.php' />
         <link rel="alternate" type="application/json+oembed"
-            href="wp-json/oembed/1.0/embed7466dd6c.json?url=https%3A%2F%2Fwww.expresscourierlimited.com%2F" />
+            href="wp-json/oembed/1.0/embed7466dd6c.json?url=<?php echo $url; ?>" />
         <link rel="alternate" type="text/xml+oembed"
-            href="wp-json/oembed/1.0/embede163576e.html?url=https%3A%2F%2Fwww.expresscourierlimited.com%2F&amp;format=xml" />
+            href="wp-json/oembed/1.0/embede163576e.php?url=<?php echo $url; ?>&amp;format=xml" />
         <meta name="be:sdk" content="php_sdk_1.5.1" />
         <meta name="be:timer" content="10ms" />
-        <meta name="be:orig_url" content="https%3A%2F%2Fwww.expresscourierlimited.com%2F" />
-        <meta name="be:norm_url" content="https%3A%2F%2Fwww.expresscourierlimited.com%2F" />
+        <meta name="be:orig_url" content="<?php echo $url; ?>" />
+        <meta name="be:norm_url" content="<?php echo $url; ?>" />
         <meta name="be:capsule_url"
             content="https%3A%2F%2Fixfd-api.bc0a.com%2Fapi%2Fixf%2F1.0.0%2Fget_capsule%2Ff00000000217942%2F0589624984" />
         <meta name="be:api_dt" content="py_2021;pm_02;pd_09;ph_16;pmh_11;p_epoch:1.61288707159E+12" />
