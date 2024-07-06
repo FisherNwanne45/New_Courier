@@ -34,7 +34,8 @@
             </div>
         </div>
     </div>
-    <section class="banner-v2" data-1x="wp-content/uploads/2020/02/ocean-cargo-port-logistics.jpg" id="section-2">
+    <section class="banner-v2"
+        data-1x="wp-content/uploads/2020/02/Omni-Emloyee-working-customer-service-4k-1920x1080-1.jpg" id="section-2">
         <div class="video-viewport">
             <video width="1920" height="1080" autoplay loop muted
                 poster="wp-content/uploads/2020/02/Omni-Emloyee-working-customer-service-4k-1920x1080-1.jpg">
