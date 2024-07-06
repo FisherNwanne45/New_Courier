@@ -7,7 +7,7 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
 ?>
 
 <!DOCTYPE html>
-<html lang="en-US"><?php echo $chat; ?>
+<html lang="en-US">
 
 <!-- Mirrored from <?php echo $url; ?>/industry-expertise/medical-device-logistics/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jul 2024 19:32:28 GMT -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->

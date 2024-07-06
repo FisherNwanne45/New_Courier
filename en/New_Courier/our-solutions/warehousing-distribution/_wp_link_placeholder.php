@@ -7,7 +7,7 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
 ?>
 
 <!DOCTYPE html>
-<html lang="en-US"><?php echo $chat; ?>
+<html lang="en-US">
 
 <!-- Mirrored from <?php echo $url; ?>/our-solutions/warehousing-distribution/_wp_link_placeholder.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jul 2024 19:31:54 GMT -->
 <head>

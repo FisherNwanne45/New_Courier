@@ -7,7 +7,7 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
 ?>
 
 <!DOCTYPE html>
-<html lang="en-US"><?php echo $chat; ?>
+<html lang="en-US">
     
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 

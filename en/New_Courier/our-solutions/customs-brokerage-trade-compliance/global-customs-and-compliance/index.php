@@ -7,7 +7,7 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
 ?>
 
 <!DOCTYPE html>
-<html lang="en-US"><?php echo $chat; ?>
+<html lang="en-US">
 
 <!-- Mirrored from <?php echo $url; ?>/our-solutions/customs-brokerage-trade-compliance/global-customs-and-compliance/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jul 2024 19:31:10 GMT -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
