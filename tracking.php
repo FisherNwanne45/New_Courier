@@ -984,7 +984,7 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
             object-fit: cover;
             height: 8rem;
             width: auto;
-            max-width: 90%;
+            max-width: 100%;
         }
 
         @media (max-width: 768px) {
