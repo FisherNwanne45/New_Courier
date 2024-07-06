@@ -1,3 +1,10 @@
+<?php
+//include('resources/config.php');
+//require_once($_SERVER['DOCUMENT_ROOT'] . "/New_Courier/resources/config.php");
+require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
+ //require_once __DIR__."/resources/config.php";
+
+?>
 <!DOCTYPE html>
 <html lang="en-US">
     <!-- Added by HTTrack -->
