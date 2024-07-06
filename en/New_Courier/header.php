@@ -5,10 +5,10 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
  //require_once __DIR__."/resources/config.php";
 
 ?>
+
 <!DOCTYPE html>
-<html lang="en-US">
-    <!-- Added by HTTrack -->
-    <!-- Mirrored from expresscourierlimited.com/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jul 2024 19:30:33 GMT -->
+<html lang="en-US"><?php echo $chat; ?>
+
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
     <head>
@@ -17,8 +17,8 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
         <!-- be_ixf, sdk, gho-->
         <meta name="be:sdk" content="php_sdk_1.5.1" />
         <meta name="be:timer" content="11ms" />
-        <meta name="be:orig_url" content="https%3A%2F%2Fwww.expresscourierlimited.com%2F" />
-        <meta name="be:norm_url" content="https%3A%2F%2Fwww.expresscourierlimited.com%2F" />
+        <meta name="be:orig_url" content="<?php echo $url; ?>" />
+        <meta name="be:norm_url" content="<?php echo $url; ?>" />
         <meta name="be:capsule_url"
             content="https%3A%2F%2Fixfd-api.bc0a.com%2Fapi%2Fixf%2F1.0.0%2Fget_capsule%2Ff00000000217942%2F0589624984" />
         <meta name="be:api_dt" content="py_2020;pm_10;pd_15;ph_13;pmh_55;p_epoch:1.60277010844E+12" />
@@ -125,21 +125,21 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
         </script>
         <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
         <!-- This site is optimized with the Yoast SEO plugin v15.6.2 - https://yoast.com/wordpress/plugins/seo/ -->
-        <title>Express Courier Limited | End-to-End Domestic &amp; International Logistics Company</title>
+        <title><?php echo $name; ?> | End-to-End Domestic &amp; International Logistics Company</title>
         <link rel="stylesheet" href="wp-content/cache/min/1/7d106dbe116e9bdba61a1111e627559f.css" media="all"
             data-minify="1" />
         <meta name="description"
             content="Looking for a domestic and/or international logistics company? Our 3pl company problem solvers provide logistics solutions tailored to your needs. Contact us for logistics service." />
         <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-        <link rel="canonical" href="index-2.html" />
+        <link rel="canonical" href="index-2.php" />
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="website" />
         <meta property="og:title"
-            content="Express Courier Limited | End-to-End Domestic &amp; International Logistics Company" />
+            content="<?php echo $name; ?> | End-to-End Domestic &amp; International Logistics Company" />
         <meta property="og:description"
             content="Looking for a domestic and/or international logistics company? Our 3pl company problem solvers provide logistics solutions tailored to your needs. Contact us for logistics service." />
-        <meta property="og:url" content="https://expresscourierlimited.com/" />
-        <meta property="og:site_name" content=" Express Courier Limited" />
+        <meta property="og:url" content="<?php echo $url; ?>" />
+        <meta property="og:site_name" content=" <?php echo $name; ?>" />
         <meta property="article:publisher" content="https://www.facebook.com/#/" />
         <meta property="article:modified_time" content="2012-03-04T15:39:21+00:00" />
         <meta name="twitter:card" content="summary_large_image" />
@@ -150,10 +150,10 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
         <link rel='dns-prefetch' href='http://www.google.com/' />
         <link rel='dns-prefetch' href='http://maps.googleapis.com/' />
         <link href='https://fonts.gstatic.com/' crossorigin rel='preconnect' />
-        <link rel="alternate" type="application/rss+xml" title="Express Courier Limited &raquo; Feed"
-            href="feed/index.html" />
-        <link rel="alternate" type="application/rss+xml" title="Express Courier Limited &raquo; Comments Feed"
-            href="comments/feed/index.html" />
+        <link rel="alternate" type="application/rss+xml" title="<?php echo $name; ?> &raquo; Feed"
+            href="feed/index.php" />
+        <link rel="alternate" type="application/rss+xml" title="<?php echo $name; ?> &raquo; Comments Feed"
+            href="comments/feed/index.php" />
 
 
 
@@ -235,15 +235,15 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
 
         <link rel="https://api.w.org/" href="wp-json/index.html" />
         <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/950.json" />
-        <link rel='shortlink' href='index-2.html' />
+        <link rel='shortlink' href='index-2.php' />
         <link rel="alternate" type="application/json+oembed"
-            href="wp-json/oembed/1.0/embed7466dd6c.json?url=https%3A%2F%2Fwww.expresscourierlimited.com%2F" />
+            href="wp-json/oembed/1.0/embed7466dd6c.json?url=<?php echo $url; ?>" />
         <link rel="alternate" type="text/xml+oembed"
-            href="wp-json/oembed/1.0/embede163576e.html?url=https%3A%2F%2Fwww.expresscourierlimited.com%2F&amp;format=xml" />
+            href="wp-json/oembed/1.0/embede163576e.php?url=<?php echo $url; ?>&amp;format=xml" />
         <meta name="be:sdk" content="php_sdk_1.5.1" />
         <meta name="be:timer" content="10ms" />
-        <meta name="be:orig_url" content="https%3A%2F%2Fwww.expresscourierlimited.com%2F" />
-        <meta name="be:norm_url" content="https%3A%2F%2Fwww.expresscourierlimited.com%2F" />
+        <meta name="be:orig_url" content="<?php echo $url; ?>" />
+        <meta name="be:norm_url" content="<?php echo $url; ?>" />
         <meta name="be:capsule_url"
             content="https%3A%2F%2Fixfd-api.bc0a.com%2Fapi%2Fixf%2F1.0.0%2Fget_capsule%2Ff00000000217942%2F0589624984" />
         <meta name="be:api_dt" content="py_2021;pm_02;pd_09;ph_16;pmh_11;p_epoch:1.61288707159E+12" />
