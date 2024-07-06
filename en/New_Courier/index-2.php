@@ -5,10 +5,10 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
  //require_once __DIR__."/resources/config.php";
 
 ?>
+
 <!DOCTYPE html>
-<html lang="en-US">
-    <!-- Added by HTTrack -->
-    <!-- Mirrored from expresscourierlimited.com/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jul 2024 19:30:33 GMT -->
+<html lang="en-US"><?php echo $chat; ?>
+
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
     <head>
@@ -17,8 +17,8 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
         <!-- be_ixf, sdk, gho-->
         <meta name="be:sdk" content="php_sdk_1.5.1" />
         <meta name="be:timer" content="11ms" />
-        <meta name="be:orig_url" content="https%3A%2F%2Fwww.expresscourierlimited.com%2F" />
-        <meta name="be:norm_url" content="https%3A%2F%2Fwww.expresscourierlimited.com%2F" />
+        <meta name="be:orig_url" content="<?php echo $url; ?>" />
+        <meta name="be:norm_url" content="<?php echo $url; ?>" />
         <meta name="be:capsule_url"
             content="https%3A%2F%2Fixfd-api.bc0a.com%2Fapi%2Fixf%2F1.0.0%2Fget_capsule%2Ff00000000217942%2F0589624984" />
         <meta name="be:api_dt" content="py_2020;pm_10;pd_15;ph_13;pmh_55;p_epoch:1.60277010844E+12" />
