@@ -973,10 +973,8 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
         .image-container {
             position: relative;
             width: 100%;
-            /* Full width */
             height: 12rem;
             background: radial-gradient(circle, white, #d3d3d3);
-            /* Lighter gray */
             display: flex;
             align-items: center;
             justify-content: center;
@@ -985,25 +983,40 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
         .image-container img {
             object-fit: cover;
             height: 8rem;
-            /* Smaller height for the logo */
             width: auto;
+            max-width: 90%;
+        }
+
+        @media (max-width: 768px) {
+            .image-container {
+                height: 10rem;
+            }
+
+            .image-container img {
+                height: 6rem;
+                max-width: 80%;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .image-container {
+                height: 8rem;
+            }
+
+            .image-container img {
+                height: 5rem;
+                max-width: 70%;
+            }
         }
 
         #search {
             height: 3.5rem;
-            /* Increase the height */
             border: 2px solid #ccc;
-            /* Thicker border */
             border-radius: 20px;
-            /* Curved edges */
             padding: 0 10px;
-            /* Add some padding for better spacing inside the input */
             font-size: 1rem;
-            /* Adjust the font size if needed */
             background: #d3d3d3;
-            /* Background color */
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            /* Add a subtle shadow */
         }
         </style>
         <div class="app">
