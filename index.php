@@ -466,7 +466,7 @@
             <h2 class="section-title">Locations</h2><img src="wp-content/uploads/2019/03/world-315x137.png"
                 alt="Best Privately-Owned Domestic &amp; International Logistics Company - <?php echo $row['name']; ?>"
                 loading="lazy"
-                srcset="wp-content/uploads/2019/03/world-315x137.png 315w, wp-content/uploads/2019/03/world-300x131.png 300w, wp-content/uploads/2019/03/world-230x100.png 230w, wp-content/uploads/2019/03/world-633x276.png 633w, wp-content/uploads/2019/03/world.png 691w, wp-content/uploads/2019/03/world-315x137@2x.png 630w, wp-content/uploads/2019/03/world-300x131@2x.png 600w, wp-content/uploads/2019/03/world-230x100@2x.png 460w"
+                srcset="wp-content/uploads/2019/03/world-315x137.png 315w, wp-content/uploads/2019/03/world-315x137.png 300w, wp-content/uploads/2019/03/world-315x137.png 230w, wp-content/uploads/2019/03/world-315x137.png 633w, wp-content/uploads/2019/03/world-315x137.png 691w, wp-content/uploads/2019/03/world-315x137.png 630w, wp-content/uploads/2019/03/world-315x137.png 600w, wp-content/uploads/2019/03/world-315x137.png 460w"
                 sizes="(max-width: 315px) 100vw, 315px" /><a href="locations/index.php" class="btn">Learn more</a>
         </div>
     </section>

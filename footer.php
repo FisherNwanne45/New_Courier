@@ -794,6 +794,7 @@ jQuery(document).ready(function() {
 });
 </script>
 </body>
+
 <?php echo $chat; ?>
 
 </html>

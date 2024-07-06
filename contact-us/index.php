@@ -2586,5 +2586,6 @@ echo date('Y');
     </body>
     <!-- Mirrored from <?php echo $url; ?>/contact-us/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jul 2024 19:31:40 GMT -->
 
+    <?php echo $chat; ?>
+
 </html>
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->
