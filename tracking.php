@@ -993,8 +993,8 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
             }
 
             .image-container img {
-                height: 6rem;
-                max-width: 80%;
+                height: 5rem;
+                max-width: 100%;
             }
         }
 
@@ -1004,8 +1004,8 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/resources/config.php");
             }
 
             .image-container img {
-                height: 5rem;
-                max-width: 70%;
+                height: 4rem;
+                max-width: 100%;
             }
         }
 
