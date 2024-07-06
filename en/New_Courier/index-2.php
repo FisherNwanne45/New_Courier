@@ -274,31 +274,38 @@
                                     <li id="menu-item-1216"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1216">
                                         <a href="our-solutions/freight-forwarding/time-critical-logistics/index.html">Time
-                                            Critical Logistics</a></li>
+                                            Critical Logistics</a>
+                                    </li>
                                     <li id="menu-item-1217"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1217">
                                         <a href="our-solutions/freight-forwarding/air-freight/index.html">Air
-                                            Freight</a></li>
+                                            Freight</a>
+                                    </li>
                                     <li id="menu-item-1218"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1218">
                                         <a href="our-solutions/freight-forwarding/ground-freight/index.html">Ground
-                                            Freight</a></li>
+                                            Freight</a>
+                                    </li>
                                     <li id="menu-item-1219"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1219">
                                         <a href="our-solutions/freight-forwarding/managed-pickup-delivery/index.html">Managed
-                                            Pickup &#038; Delivery</a></li>
+                                            Pickup &#038; Delivery</a>
+                                    </li>
                                     <li id="menu-item-1220"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1220">
                                         <a href="our-solutions/freight-forwarding/white-glove/index.html">White Glove
-                                            Logistics</a></li>
+                                            Logistics</a>
+                                    </li>
                                     <li id="menu-item-1221"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1221">
                                         <a href="our-solutions/freight-forwarding/ocean-freight/index.html">Ocean
-                                            Freight</a></li>
+                                            Freight</a>
+                                    </li>
                                     <li id="menu-item-1222"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1222">
                                         <a href="our-solutions/freight-forwarding/small-package-solutions/index.html">Small
-                                            Package Solutions</a></li>
+                                            Package Solutions</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li id="menu-item-2032"
@@ -309,21 +316,25 @@
                                     <li id="menu-item-1225"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1225">
                                         <a href="our-solutions/warehousing-distribution/global-3pl-services/index.html">Global
-                                            3PL Services</a></li>
+                                            3PL Services</a>
+                                    </li>
                                     <li id="menu-item-1226"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1226">
                                         <a
                                             href="our-solutions/warehousing-distribution/free-trade-zone-solutions/index.html">Free
-                                            Trade Zone Solutions</a></li>
+                                            Trade Zone Solutions</a>
+                                    </li>
                                     <li id="menu-item-1227"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1227">
                                         <a
                                             href="our-solutions/warehousing-distribution/cross-dock-logistics/index.html">Cross
-                                            Dock Logistics</a></li>
+                                            Dock Logistics</a>
+                                    </li>
                                     <li id="menu-item-1228"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1228">
                                         <a href="our-solutions/warehousing-distribution/kitting-services/index.html">Kitting
-                                            Services</a></li>
+                                            Services</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li id="menu-item-1229"
@@ -333,24 +344,29 @@
                                     <li id="menu-item-1231"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231">
                                         <a href="our-solutions/specialized-services/trade-show-logistics/index.html">Trade
-                                            Show Logistics</a></li>
+                                            Show Logistics</a>
+                                    </li>
                                     <li id="menu-item-1232"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1232">
                                         <a
                                             href="our-solutions/specialized-services/data-center-laboratory-relocations/index.html">Data
-                                            Center | Laboratory Relocations</a></li>
+                                            Center | Laboratory Relocations</a>
+                                    </li>
                                     <li id="menu-item-1233"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1233">
                                         <a href="our-solutions/specialized-services/value-added-services/index.html">Value-Added
-                                            Services</a></li>
+                                            Services</a>
+                                    </li>
                                     <li id="menu-item-1234"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1234">
                                         <a href="our-solutions/specialized-services/reverse-logistics/index.html">Reverse
-                                            Logistics</a></li>
+                                            Logistics</a>
+                                    </li>
                                     <li id="menu-item-1235"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235">
                                         <a href="our-solutions/specialized-services/project-cargo/index.html">Project
-                                            Cargo Logistics</a></li>
+                                            Cargo Logistics</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li id="menu-item-2000"
@@ -361,12 +377,14 @@
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2001">
                                         <a
                                             href="our-solutions/customs-brokerage-trade-compliance/u-s-customs-brokerage/index.html">U.S.
-                                            Customs Brokerage</a></li>
+                                            Customs Brokerage</a>
+                                    </li>
                                     <li id="menu-item-2002"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2002">
                                         <a
                                             href="our-solutions/customs-brokerage-trade-compliance/global-customs-and-compliance/index.html">Global
-                                            Customs and Compliance</a></li>
+                                            Customs and Compliance</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li id="menu-item-1241"
@@ -436,7 +454,8 @@
                     <li id="menu-item-1525"
                         class="btn-red-wrapper open-dropdown menu-item menu-item-type-custom menu-item-object-custom menu-item-1525">
                         <a target="_blank" rel="noopener" href="https://tracking.expresscourierlimited.com/">Track
-                            Shipment</a></li>
+                            Shipment</a>
+                    </li>
 
                 </ul>
                 <ul class="mobile-social-links social-links">
@@ -481,11 +500,13 @@
                                             href="tell:+1(570) 228-0069">+1(570) 228-0069</a></li>
                                     <li id="menu-item-156"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156">
-                                        <a href="resources/index.html">Resources</a></li>
+                                        <a href="resources/index.html">Resources</a>
+                                    </li>
                                     <li id="menu-item-648"
                                         class="btn-red-wrapper open-dropdown menu-item menu-item-type-custom menu-item-object-custom menu-item-648">
                                         <a target="_blank" rel="noopener"
-                                            href="https://tracking.expresscourierlimited.com/">Track Shipment</a></li>
+                                            href="https://tracking.expresscourierlimited.com/">Track Shipment</a>
+                                    </li>
                                 </ul>
                                 <div class="header-search">
                                     <form role="search" method="get" id="searchform" class="searchform" action="#">
@@ -516,42 +537,50 @@
                                                                 alt="Freight Forwarding &amp; supply chain solutions tailored for you - Express Courier Limited"
                                                                 loading="lazy"
                                                                 srcset="https://www.omnilogistics.com/wp-content/uploads/2020/02/freight-forwarding-drop-down.jpg 199w, https://www.omnilogistics.com/wp-content/uploads/2020/02/freight-forwarding-drop-down-71x33.jpg 71w, https://www.omnilogistics.com/wp-content/uploads/2020/02/freight-forwarding-drop-down-100x47.jpg 100w, https://www.omnilogistics.com/wp-content/uploads/2020/02/freight-forwarding-drop-down-71x33@2x.jpg 142w, https://www.omnilogistics.com/wp-content/uploads/2020/02/freight-forwarding-drop-down-100x47@2x.jpg 200w"
-                                                                sizes="(max-width: 199px) 100vw, 199px" /></a></li>
+                                                                sizes="(max-width: 199px) 100vw, 199px" /></a>
+                                                    </li>
                                                     <li id="menu-item-839"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-839">
                                                         <a
                                                             href="our-solutions/freight-forwarding/time-critical-logistics/index.html">Time
-                                                            Critical Logistics</a></li>
+                                                            Critical Logistics</a>
+                                                    </li>
                                                     <li id="menu-item-883"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-883">
                                                         <a
                                                             href="our-solutions/freight-forwarding/air-freight/index.html">Air
-                                                            Freight</a></li>
+                                                            Freight</a>
+                                                    </li>
                                                     <li id="menu-item-1089"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1089">
                                                         <a
                                                             href="our-solutions/freight-forwarding/ground-freight/index.html">Ground
-                                                            Freight</a></li>
+                                                            Freight</a>
+                                                    </li>
                                                     <li id="menu-item-1087"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1087">
                                                         <a
                                                             href="our-solutions/freight-forwarding/managed-pickup-delivery/index.html">Managed
-                                                            Pickup &#038; Delivery</a></li>
+                                                            Pickup &#038; Delivery</a>
+                                                    </li>
                                                     <li id="menu-item-1088"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1088">
                                                         <a
                                                             href="our-solutions/freight-forwarding/white-glove/index.html">White
-                                                            Glove Logistics</a></li>
+                                                            Glove Logistics</a>
+                                                    </li>
                                                     <li id="menu-item-1101"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1101">
                                                         <a
                                                             href="our-solutions/freight-forwarding/ocean-freight/index.html">Ocean
-                                                            Freight</a></li>
+                                                            Freight</a>
+                                                    </li>
                                                     <li id="menu-item-1100"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1100">
                                                         <a
                                                             href="our-solutions/freight-forwarding/small-package-solutions/index.html">Small
-                                                            Package Solutions</a></li>
+                                                            Package Solutions</a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                             <li id="menu-item-2034"
@@ -567,27 +596,32 @@
                                                                 alt="Warehousing &amp; supply chain solutions tailored for you - Express Courier Limited"
                                                                 loading="lazy"
                                                                 srcset="https://www.omnilogistics.com/wp-content/uploads/2020/02/warehouse-and-distribution-dropdown.jpg 199w, https://www.omnilogistics.com/wp-content/uploads/2020/02/warehouse-and-distribution-dropdown-71x33.jpg 71w, https://www.omnilogistics.com/wp-content/uploads/2020/02/warehouse-and-distribution-dropdown-100x47.jpg 100w, https://www.omnilogistics.com/wp-content/uploads/2020/02/warehouse-and-distribution-dropdown-71x33@2x.jpg 142w, https://www.omnilogistics.com/wp-content/uploads/2020/02/warehouse-and-distribution-dropdown-100x47@2x.jpg 200w"
-                                                                sizes="(max-width: 199px) 100vw, 199px" /></a></li>
+                                                                sizes="(max-width: 199px) 100vw, 199px" /></a>
+                                                    </li>
                                                     <li id="menu-item-1067"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1067">
                                                         <a
                                                             href="our-solutions/warehousing-distribution/global-3pl-services/index.html">Global
-                                                            3PL Services</a></li>
+                                                            3PL Services</a>
+                                                    </li>
                                                     <li id="menu-item-1090"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1090">
                                                         <a
                                                             href="our-solutions/warehousing-distribution/free-trade-zone-solutions/index.html">Free
-                                                            Trade Zone Solutions</a></li>
+                                                            Trade Zone Solutions</a>
+                                                    </li>
                                                     <li id="menu-item-1146"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1146">
                                                         <a
                                                             href="our-solutions/warehousing-distribution/cross-dock-logistics/index.html">Cross
-                                                            Dock Logistics</a></li>
+                                                            Dock Logistics</a>
+                                                    </li>
                                                     <li id="menu-item-1145"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1145">
                                                         <a
                                                             href="our-solutions/warehousing-distribution/kitting-services/index.html">Kitting
-                                                            Services</a></li>
+                                                            Services</a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                             <li id="menu-item-1211"
@@ -602,32 +636,38 @@
                                                                 alt="Specialized Logistics solutions tailored for you - Express Courier Limited"
                                                                 loading="lazy"
                                                                 srcset="https://www.omnilogistics.com/wp-content/uploads/2020/02/specialized-services-dropdown.jpg 199w, https://www.omnilogistics.com/wp-content/uploads/2020/02/specialized-services-dropdown-71x33.jpg 71w, https://www.omnilogistics.com/wp-content/uploads/2020/02/specialized-services-dropdown-100x47.jpg 100w, https://www.omnilogistics.com/wp-content/uploads/2020/02/specialized-services-dropdown-71x33@2x.jpg 142w, https://www.omnilogistics.com/wp-content/uploads/2020/02/specialized-services-dropdown-100x47@2x.jpg 200w"
-                                                                sizes="(max-width: 199px) 100vw, 199px" /></a></li>
+                                                                sizes="(max-width: 199px) 100vw, 199px" /></a>
+                                                    </li>
                                                     <li id="menu-item-884"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-884">
                                                         <a
                                                             href="our-solutions/specialized-services/trade-show-logistics/index.html">Trade
-                                                            Show Logistics</a></li>
+                                                            Show Logistics</a>
+                                                    </li>
                                                     <li id="menu-item-887"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-887">
                                                         <a
                                                             href="our-solutions/specialized-services/data-center-laboratory-relocations/index.html">Data
-                                                            Center | <br>Laboratory Relocations</a></li>
+                                                            Center | <br>Laboratory Relocations</a>
+                                                    </li>
                                                     <li id="menu-item-886"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-886">
                                                         <a
                                                             href="our-solutions/specialized-services/value-added-services/index.html">Value-Added
-                                                            Services</a></li>
+                                                            Services</a>
+                                                    </li>
                                                     <li id="menu-item-885"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-885">
                                                         <a
                                                             href="our-solutions/specialized-services/reverse-logistics/index.html">Reverse
-                                                            Logistics</a></li>
+                                                            Logistics</a>
+                                                    </li>
                                                     <li id="menu-item-894"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-894">
                                                         <a
                                                             href="our-solutions/specialized-services/project-cargo/index.html">Project
-                                                            Cargo Logistics</a></li>
+                                                            Cargo Logistics</a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                             <li id="menu-item-1995"
@@ -642,17 +682,20 @@
                                                                 alt="Logistics &amp; supply chain solutions tailored for you - Express Courier Limited"
                                                                 loading="lazy"
                                                                 srcset="https://www.omnilogistics.com/wp-content/uploads/2019/05/dropdown4-new.jpg 199w, https://www.omnilogistics.com/wp-content/uploads/2019/05/dropdown4-new-100x47.jpg 100w, https://www.omnilogistics.com/wp-content/uploads/2019/05/dropdown4-new-100x47@2x.jpg 200w"
-                                                                sizes="(max-width: 199px) 100vw, 199px" /></a></li>
+                                                                sizes="(max-width: 199px) 100vw, 199px" /></a>
+                                                    </li>
                                                     <li id="menu-item-1997"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1997">
                                                         <a
                                                             href="our-solutions/customs-brokerage-trade-compliance/u-s-customs-brokerage/index.html">U.S.
-                                                            Customs Brokerage</a></li>
+                                                            Customs Brokerage</a>
+                                                    </li>
                                                     <li id="menu-item-1998"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1998">
                                                         <a
                                                             href="our-solutions/customs-brokerage-trade-compliance/global-customs-and-compliance/index.html">Global
-                                                            Customs and <br>Compliance</a></li>
+                                                            Customs and <br>Compliance</a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                             <li id="menu-item-1307"
@@ -666,13 +709,15 @@
                                                                 class="" alt="Logistics Technology Solutions"
                                                                 loading="lazy"
                                                                 srcset="https://www.omnilogistics.com/wp-content/uploads/2020/02/Technology-drop-down.jpg 199w, https://www.omnilogistics.com/wp-content/uploads/2020/02/Technology-drop-down-71x33.jpg 71w, https://www.omnilogistics.com/wp-content/uploads/2020/02/Technology-drop-down-100x47.jpg 100w, https://www.omnilogistics.com/wp-content/uploads/2020/02/Technology-drop-down-71x33@2x.jpg 142w, https://www.omnilogistics.com/wp-content/uploads/2020/02/Technology-drop-down-100x47@2x.jpg 200w"
-                                                                sizes="(max-width: 199px) 100vw, 199px" /></a></li>
+                                                                sizes="(max-width: 199px) 100vw, 199px" /></a>
+                                                    </li>
                                                     <li id="menu-item-629"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-629">
                                                         <a href="our-solutions/technology/index.html"><small>Looking for
                                                                 technology that <br>improves visibility and makes
                                                                 <br>collaboration go more smoothly?<br> Express Courier
-                                                                Limited has got you covered.</small></a></li>
+                                                                Limited has got you covered.</small></a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -694,12 +739,14 @@
                                                                 alt="Semiconductor supply chain solutions tailored for you - Express Courier Limited"
                                                                 loading="lazy"
                                                                 srcset="https://www.omnilogistics.com/wp-content/uploads/2020/02/semiconductor-logistics-drop-down.jpg 199w, https://www.omnilogistics.com/wp-content/uploads/2020/02/semiconductor-logistics-drop-down-71x33.jpg 71w, https://www.omnilogistics.com/wp-content/uploads/2020/02/semiconductor-logistics-drop-down-100x47.jpg 100w, https://www.omnilogistics.com/wp-content/uploads/2020/02/semiconductor-logistics-drop-down-71x33@2x.jpg 142w, https://www.omnilogistics.com/wp-content/uploads/2020/02/semiconductor-logistics-drop-down-100x47@2x.jpg 200w"
-                                                                sizes="(max-width: 199px) 100vw, 199px" /></a></li>
+                                                                sizes="(max-width: 199px) 100vw, 199px" /></a>
+                                                    </li>
                                                     <li id="menu-item-654"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-654">
                                                         <a href="industry-expertise/semiconductor-logistics/index.html"><small>Semiconductor
                                                                 logistics tailored to your unique needs. We make it
-                                                                happen.</small></a></li>
+                                                                happen.</small></a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                             <li id="menu-item-1438"
@@ -714,12 +761,14 @@
                                                                 class="" alt="High Tech Logistics Solutions"
                                                                 loading="lazy"
                                                                 srcset="https://www.omnilogistics.com/wp-content/uploads/2020/02/hi-tech-logistics-drop-down.jpg 199w, https://www.omnilogistics.com/wp-content/uploads/2020/02/hi-tech-logistics-drop-down-71x33.jpg 71w, https://www.omnilogistics.com/wp-content/uploads/2020/02/hi-tech-logistics-drop-down-100x47.jpg 100w, https://www.omnilogistics.com/wp-content/uploads/2020/02/hi-tech-logistics-drop-down-71x33@2x.jpg 142w, https://www.omnilogistics.com/wp-content/uploads/2020/02/hi-tech-logistics-drop-down-100x47@2x.jpg 200w"
-                                                                sizes="(max-width: 199px) 100vw, 199px" /></a></li>
+                                                                sizes="(max-width: 199px) 100vw, 199px" /></a>
+                                                    </li>
                                                     <li id="menu-item-1431"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1431">
                                                         <a href="industry-expertise/high-tech-logistics/index.html"><small>Discover
                                                                 high tech logistics designed around your company&#8217;s
-                                                                unique needs.</small></a></li>
+                                                                unique needs.</small></a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                             <li id="menu-item-159"
@@ -734,13 +783,15 @@
                                                                 src="wp-content/uploads/2020/02/medical-device-drop-down-199x93.jpg"
                                                                 class="" alt="Medical Device Logistics" loading="lazy"
                                                                 srcset="https://www.omnilogistics.com/wp-content/uploads/2020/02/medical-device-drop-down.jpg 199w, https://www.omnilogistics.com/wp-content/uploads/2020/02/medical-device-drop-down-71x33.jpg 71w, https://www.omnilogistics.com/wp-content/uploads/2020/02/medical-device-drop-down-100x47.jpg 100w, https://www.omnilogistics.com/wp-content/uploads/2020/02/medical-device-drop-down-71x33@2x.jpg 142w, https://www.omnilogistics.com/wp-content/uploads/2020/02/medical-device-drop-down-100x47@2x.jpg 200w"
-                                                                sizes="(max-width: 199px) 100vw, 199px" /></a></li>
+                                                                sizes="(max-width: 199px) 100vw, 199px" /></a>
+                                                    </li>
                                                     <li id="menu-item-653"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-653">
                                                         <a
                                                             href="industry-expertise/medical-device-logistics/index.html"><small>When
                                                                 it comes to time-critical medical logistics, we’re ALL
-                                                                IN.</small></a></li>
+                                                                IN.</small></a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                             <li id="menu-item-1440"
@@ -756,12 +807,14 @@
                                                                 alt="Logistics &amp; supply chain solutions tailored for you - Express Courier Limited"
                                                                 loading="lazy"
                                                                 srcset="https://www.omnilogistics.com/wp-content/uploads/2019/05/shutterstock_691541095.png 199w, https://www.omnilogistics.com/wp-content/uploads/2019/05/shutterstock_691541095-71x33.png 71w, https://www.omnilogistics.com/wp-content/uploads/2019/05/shutterstock_691541095-100x47.png 100w, https://www.omnilogistics.com/wp-content/uploads/2019/05/shutterstock_691541095-71x33@2x.png 142w, https://www.omnilogistics.com/wp-content/uploads/2019/05/shutterstock_691541095-100x47@2x.png 200w"
-                                                                sizes="(max-width: 199px) 100vw, 199px" /></a></li>
+                                                                sizes="(max-width: 199px) 100vw, 199px" /></a>
+                                                    </li>
                                                     <li id="menu-item-1429"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1429">
                                                         <a href="industry-expertise/life-science-logistics/index.html"><small>For
                                                                 precise, secure transporting of life science products,
-                                                                look to Express Courier Limited.</small></a></li>
+                                                                look to Express Courier Limited.</small></a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                             <li id="menu-item-161"
@@ -776,12 +829,14 @@
                                                                 class="" alt="e commerce Logistics solutions"
                                                                 loading="lazy"
                                                                 srcset="https://www.omnilogistics.com/wp-content/uploads/2020/02/e-commerce-drop-down.jpg 199w, https://www.omnilogistics.com/wp-content/uploads/2020/02/e-commerce-drop-down-71x33.jpg 71w, https://www.omnilogistics.com/wp-content/uploads/2020/02/e-commerce-drop-down-100x47.jpg 100w, https://www.omnilogistics.com/wp-content/uploads/2020/02/e-commerce-drop-down-71x33@2x.jpg 142w, https://www.omnilogistics.com/wp-content/uploads/2020/02/e-commerce-drop-down-100x47@2x.jpg 200w"
-                                                                sizes="(max-width: 199px) 100vw, 199px" /></a></li>
+                                                                sizes="(max-width: 199px) 100vw, 199px" /></a>
+                                                    </li>
                                                     <li id="menu-item-655"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-655">
                                                         <a href="industry-expertise/e-commerce-logistics/index.html"><small>For
                                                                 e-commerce logistics customized for you, look to Express
-                                                                Courier Limited.</small></a></li>
+                                                                Courier Limited.</small></a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                             <li id="menu-item-1435"
@@ -796,12 +851,14 @@
                                                                 class="" alt="Retail Logistics and fulfillment"
                                                                 loading="lazy"
                                                                 srcset="https://www.omnilogistics.com/wp-content/uploads/2020/02/retail-logistics-drop-down.jpg 199w, https://www.omnilogistics.com/wp-content/uploads/2020/02/retail-logistics-drop-down-71x33.jpg 71w, https://www.omnilogistics.com/wp-content/uploads/2020/02/retail-logistics-drop-down-100x47.jpg 100w, https://www.omnilogistics.com/wp-content/uploads/2020/02/retail-logistics-drop-down-71x33@2x.jpg 142w, https://www.omnilogistics.com/wp-content/uploads/2020/02/retail-logistics-drop-down-100x47@2x.jpg 200w"
-                                                                sizes="(max-width: 199px) 100vw, 199px" /></a></li>
+                                                                sizes="(max-width: 199px) 100vw, 199px" /></a>
+                                                    </li>
                                                     <li id="menu-item-1434"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1434">
                                                         <a href="industry-expertise/retail-logistics/index.html"><small>In
                                                                 the fast-paced world of retail logistics, you can rely
-                                                                on Express Courier Limited.</small></a></li>
+                                                                on Express Courier Limited.</small></a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                             <li id="menu-item-1439"
@@ -818,14 +875,16 @@
                                                                 class="" alt="Aviation and aerospace logistics"
                                                                 loading="lazy"
                                                                 srcset="https://www.omnilogistics.com/wp-content/uploads/2020/02/aviation-aerospace-drop-down.jpg 199w, https://www.omnilogistics.com/wp-content/uploads/2020/02/aviation-aerospace-drop-down-71x33.jpg 71w, https://www.omnilogistics.com/wp-content/uploads/2020/02/aviation-aerospace-drop-down-100x47.jpg 100w, https://www.omnilogistics.com/wp-content/uploads/2020/02/aviation-aerospace-drop-down-71x33@2x.jpg 142w, https://www.omnilogistics.com/wp-content/uploads/2020/02/aviation-aerospace-drop-down-100x47@2x.jpg 200w"
-                                                                sizes="(max-width: 199px) 100vw, 199px" /></a></li>
+                                                                sizes="(max-width: 199px) 100vw, 199px" /></a>
+                                                    </li>
                                                     <li id="menu-item-1430"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1430">
                                                         <a
                                                             href="industry-expertise/aviation-and-aerospace-logistics/index.html"><small>When
                                                                 it comes to customized aviation &#038; aerospace
                                                                 logistics, Express Courier Limited is ALL
-                                                                IN.</small></a></li>
+                                                                IN.</small></a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                             <li id="menu-item-2055"
@@ -840,38 +899,45 @@
                                                                 class="" alt="Automotive Cars Logistics drop down menu"
                                                                 loading="lazy"
                                                                 srcset="https://www.omnilogistics.com/wp-content/uploads/2020/12/Automotive-Logistics-Menu.jpg 199w, https://www.omnilogistics.com/wp-content/uploads/2020/12/Automotive-Logistics-Menu-71x33.jpg 71w, https://www.omnilogistics.com/wp-content/uploads/2020/12/Automotive-Logistics-Menu-100x47.jpg 100w, https://www.omnilogistics.com/wp-content/uploads/2020/12/Automotive-Logistics-Menu-71x33@2x.jpg 142w, https://www.omnilogistics.com/wp-content/uploads/2020/12/Automotive-Logistics-Menu-100x47@2x.jpg 200w"
-                                                                sizes="(max-width: 199px) 100vw, 199px" /></a></li>
+                                                                sizes="(max-width: 199px) 100vw, 199px" /></a>
+                                                    </li>
                                                     <li id="menu-item-2057"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2057">
                                                         <a href="industry-expertise/automotive-supply-chain/index.html"><small>Your
                                                                 Automotive Supply Chain could benefit from Express
-                                                                Courier Limited&#8217;s expertise.</small></a></li>
+                                                                Courier Limited&#8217;s expertise.</small></a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                         </ul>
                                     </li>
                                     <li id="menu-item-1967"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1967">
-                                        <a href="locations/index.html">Locations</a></li>
+                                        <a href="locations/index.html">Locations</a>
+                                    </li>
                                     <li id="menu-item-498"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-498">
                                         <a href="#">About Us</a>
                                         <ul class="sub-menu">
                                             <li id="menu-item-485"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-485">
-                                                <a href="about-us/leadership/index.html">Leadership</a></li>
+                                                <a href="about-us/leadership/index.html">Leadership</a>
+                                            </li>
                                             <li id="menu-item-486"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486">
                                                 <a href="about-us/company-introduction-culture/index.html">Company
-                                                    Introduction &#038; Culture</a></li>
+                                                    Introduction &#038; Culture</a>
+                                            </li>
                                             <li id="menu-item-487"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-487">
-                                                <a href="about-us/careers/index.html">Careers</a></li>
+                                                <a href="about-us/careers/index.html">Careers</a>
+                                            </li>
                                         </ul>
                                     </li>
                                     <li id="menu-item-164"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-164">
-                                        <a href="contact-us/index.html">Contact Us</a></li>
+                                        <a href="contact-us/index.html">Contact Us</a>
+                                    </li>
                                 </ul>
                             </nav>
                         </div>
@@ -1534,14 +1600,17 @@
                                     </li>
                                     <li id="menu-item-173"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173">
-                                        <a href="business-terms/index.html">Business Terms</a></li>
+                                        <a href="business-terms/index.html">Business Terms</a>
+                                    </li>
 
                                     <li id="menu-item-174"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-174">
-                                        <a href="privacy-policy/index.html">Privacy Policy</a></li>
+                                        <a href="privacy-policy/index.html">Privacy Policy</a>
+                                    </li>
                                     <li id="menu-item-175"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175">
-                                        <a href="sitemap/index.html">Sitemap</a></li>
+                                        <a href="sitemap/index.html">Sitemap</a>
+                                    </li>
                                 </ul>
                                 <ul class="social-links f-soc">
                                     <li>Follow us</li>
@@ -2198,7 +2267,7 @@
                     setTimeout(function() {
                         /* delay the scroll by 50 milliseconds to fix a bug in chrome */
                         jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top -
-                        mt);
+                            mt);
                     }, 50);
                     if (window['gformInitDatepicker']) {
                         gformInitDatepicker();
@@ -2273,7 +2342,7 @@
                     setTimeout(function() {
                         /* delay the scroll by 50 milliseconds to fix a bug in chrome */
                         jQuery(document).scrollTop(jQuery('#gform_wrapper_3').offset().top -
-                        mt);
+                            mt);
                     }, 50);
                     if (window['gformInitDatepicker']) {
                         gformInitDatepicker();
