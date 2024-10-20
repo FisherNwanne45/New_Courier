@@ -56,6 +56,8 @@ if($row['amt'] == 'user'){
                                 <li><a href="create_user.php"><i class="menu-icon icon-user"></i>Create New Vault User
                                     </a>
                                 </li>
+                                <li><a href="settings.php"><i class="menu-icon icon-cog"></i>Site Settings
+                                    </a></li>
                                 <li><a href="change_password.php"><i class="menu-icon icon-inbox"></i>Change Password
                                     </a></li>
                                 <li><a href="logout.php"><i class="menu-icon icon-tasks"></i>Logout </a></li>

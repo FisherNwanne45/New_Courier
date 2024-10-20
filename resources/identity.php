@@ -427,7 +427,7 @@ $sql_u = "SELECT * FROM user WHERE cid='$cid'";
         <!--/.wrapper-->
         <div class="footer">
             <div class="container">
-                <b class="copyright">&copy; 2020 Fisher Designs </b>All rights reserved.
+                <b class="copyright">&copy; <?php echo date("Y"); ?> Fisher Designs </b>All rights reserved.
             </div>
         </div>
 

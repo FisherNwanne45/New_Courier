@@ -9,258 +9,267 @@ include_once ('front.php');
         while($row = $result->fetch_assoc())
         {
       ?>
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="en" style="height: 100%;">
+
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        
-         <link rel="stylesheet" href="./result_files/css">
-<title> Track Result</title>
-	<link href="../images/favicon.png" rel="shortcut icon">
 
- <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="./result_files/css">
+        <title> Track Result</title>
+        <link href="../images/favicon.png" rel="shortcut icon">
 
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta http-equiv="x-ua-compatible" content="ie=edge">
-<link href='https://fonts.googleapis.com/css?family=Libre Barcode 128 Text' rel='stylesheet'>
- <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" rel="stylesheet" type="text/css">
-<link src="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-    
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js" type="text/javascript"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" type="text/javascript"></script>
-<link rel="stylesheet" href="./result_files/style.css" type="text/css" media="all">
-<link rel="stylesheet" href="./result_files/style2.css" type="text/css">
-<!--// css -->
-<link rel="stylesheet" href="./result_files/owl.carousel.css" type="text/css" media="all">
-<link href="./result_files/owl.theme.css" rel="stylesheet">
-<link type="text/css" rel="stylesheet" href="./result_files/cm-overlay.css">
- 
-<link href="./result_files/css(1)" rel="stylesheet">
-<link href="./result_files/css(2)" rel="stylesheet" type="text/css">
-<!-- //font -->
-<script src="./result_files/jquery-1.11.1.min.js.download"></script>
-<script src="./result_files/bootstrap.js.download"></script>
-<!-- menu -->
- 
- <style>@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-body {
-    background-color: #eeeeee;
-    font-family: 'Open Sans', serif
-}
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <link href='https://fonts.googleapis.com/css?family=Libre Barcode 128 Text' rel='stylesheet'>
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet"
+            type="text/css">
+        <link href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" rel="stylesheet" type="text/css">
+        <link src="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
-body2 {
-    font-family: 'Libre Barcode 128 Text';font-size: 22px;
-}
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"
+            type="text/javascript"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" type="text/javascript"></script>
+        <link rel="stylesheet" href="./result_files/style.css" type="text/css" media="all">
+        <link rel="stylesheet" href="./result_files/style2.css" type="text/css">
+        <!--// css -->
+        <link rel="stylesheet" href="./result_files/owl.carousel.css" type="text/css" media="all">
+        <link href="./result_files/owl.theme.css" rel="stylesheet">
+        <link type="text/css" rel="stylesheet" href="./result_files/cm-overlay.css">
 
-.container {
-    margin-top: 50px;
-    margin-bottom: 50px
-}
+        <link href="./result_files/css(1)" rel="stylesheet">
+        <link href="./result_files/css(2)" rel="stylesheet" type="text/css">
+        <!-- //font -->
+        <script src="./result_files/jquery-1.11.1.min.js.download"></script>
+        <script src="./result_files/bootstrap.js.download"></script>
+        <!-- menu -->
 
-.col {
-    
-    margin-bottom: 20px
-}
+        <style>
+        @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
-.card {
-    position: relative;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    min-width: 0;
-    word-wrap: break-word;
-    background-color: #fff;
-    background-clip: border-box;
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    border-radius: 0.10rem
-}
+        body {
+            background-color: #eeeeee;
+            font-family: 'Open Sans', serif
+        }
 
-.card-header:first-child {
-    border-radius: calc(0.37rem - 1px) calc(0.37rem - 1px) 0 0
-}
+        body2 {
+            font-family: 'Libre Barcode 128 Text';
+            font-size: 22px;
+        }
 
-.card-header {
-    padding: 0.75rem 1.25rem;
-    margin-bottom: 0;
-    background-color: #fff;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1)
-}
+        .container {
+            margin-top: 50px;
+            margin-bottom: 50px
+        }
 
-.track {
-    position: relative;
-    background-color: #ddd;
-    height: 7px;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    margin-bottom: 60px;
-    margin-top: 50px
-}
+        .col {
 
-.track .step {
-    -webkit-box-flex: 1;
-    -ms-flex-positive: 1;
-    flex-grow: 1;
-    width: 25%;
-    margin-top: -18px;
-    text-align: center;
-    position: relative
-    
-}
+            margin-bottom: 20px
+        }
 
-.track .step.active:before {
-    background: #0069a3
-}
+        .card {
+            position: relative;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-orient: vertical;
+            -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+            flex-direction: column;
+            min-width: 0;
+            word-wrap: break-word;
+            background-color: #fff;
+            background-clip: border-box;
+            border: 1px solid rgba(0, 0, 0, 0.1);
+            border-radius: 0.10rem
+        }
 
-.track .step::before {
-    height: 7px;
-    position: absolute;
-    content: "";
-    width: 100%;
-    left: 0;
-    top: 18px
-}
+        .card-header:first-child {
+            border-radius: calc(0.37rem - 1px) calc(0.37rem - 1px) 0 0
+        }
 
-.track .step.active .icon {
-    background: #0069a3;
-    color: #fff
-}
+        .card-header {
+            padding: 0.75rem 1.25rem;
+            margin-bottom: 0;
+            background-color: #fff;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.1)
+        }
 
-.track .icon {
-    display: inline-block;
-    width: 40px;
-    height: 40px;
-    line-height: 40px;
-    position: relative;
-    border-radius: 100%;
-    background: #ddd
-}
+        .track {
+            position: relative;
+            background-color: #ddd;
+            height: 7px;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            margin-bottom: 60px;
+            margin-top: 50px
+        }
 
-.track .step.active .text {
-    font-weight: 400;
-    color: #000
-    font-size: 30px;
-}
+        .track .step {
+            -webkit-box-flex: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            width: 25%;
+            margin-top: -18px;
+            text-align: center;
+            position: relative
+        }
 
-.track .text {
-    display: block;
-    margin-top: 7px
-    
-}
+        .track .step.active:before {
+            background: #0069a3
+        }
 
-.itemside {
-    position: relative;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    width: 100%
-}
+        .track .step::before {
+            height: 7px;
+            position: absolute;
+            content: "";
+            width: 100%;
+            left: 0;
+            top: 18px
+        }
 
-.itemside .aside {
-    position: relative;
-    -ms-flex-negative: 0;
-    flex-shrink: 0
-}
+        .track .step.active .icon {
+            background: #0069a3;
+            color: #fff
+        }
 
-.img-sm {
-    width: 270px;
-    
-    padding: 7px
-}
+        .track .icon {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            line-height: 40px;
+            position: relative;
+            border-radius: 100%;
+            background: #ddd
+        }
 
-ul.row,
-ul.row-sm {
-    list-style: none;
-    padding: 0
-}
+        .track .step.active .text {
+            font-weight: 400;
+            color: #000 font-size: 30px;
+        }
 
-.itemside .info {
-    padding-left: 15px;
-    padding-right: 7px
-}
+        .track .text {
+            display: block;
+            margin-top: 7px
+        }
 
-.itemside .title {
-    display: block;
-    margin-bottom: 5px;
-    color: #212529
-}
+        .itemside {
+            position: relative;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            width: 100%
+        }
 
-p {
-    margin-top: 0;
-    margin-bottom: 1rem
-}
+        .itemside .aside {
+            position: relative;
+            -ms-flex-negative: 0;
+            flex-shrink: 0
+        }
 
-.btn-warning {
-    color: #ffffff;
-    background-color: #0069a3;
-    border-color: #0069a3;
-    border-radius: 1px
-}
+        .img-sm {
+            width: 270px;
 
-.btn-warning:hover {
-    color: #ffffff;
-    background-color: #ff2b00;
-    border-color: #ff2b00;
-    border-radius: 1px
-}
-</style>
+            padding: 7px
+        }
 
-<script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-}
-function nokApply(){
-	window.location='next-of-kin.php';
-}
-</script>
+        ul.row,
+        ul.row-sm {
+            list-style: none;
+            padding: 0
+        }
 
-<script src="./result_files/html5shiv.min.js.download"></script>
+        .itemside .info {
+            padding-left: 15px;
+            padding-right: 7px
+        }
+
+        .itemside .title {
+            display: block;
+            margin-bottom: 5px;
+            color: #212529
+        }
+
+        p {
+            margin-top: 0;
+            margin-bottom: 1rem
+        }
+
+        .btn-warning {
+            color: #ffffff;
+            background-color: #0069a3;
+            border-color: #0069a3;
+            border-radius: 1px
+        }
+
+        .btn-warning:hover {
+            color: #ffffff;
+            background-color: #ff2b00;
+            border-color: #ff2b00;
+            border-radius: 1px
+        }
+        </style>
+
+        <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'en'
+            }, 'google_translate_element');
+        }
+
+        function nokApply() {
+            window.location = 'next-of-kin.php';
+        }
+        </script>
+
+        <script src="./result_files/html5shiv.min.js.download"></script>
         <script src="./result_files/respond.min.js.download"></script>
 
-<link href="./result_files/owl.carousel.min.css" rel="stylesheet">
-    <link href="./result_files/magnific-popup.css" rel="stylesheet">
+        <link href="./result_files/owl.carousel.min.css" rel="stylesheet">
+        <link href="./result_files/magnific-popup.css" rel="stylesheet">
 
 
 
-<script type="text/javascript" src="./result_files/element.js.download"></script><link type="text/css" rel="stylesheet" charset="UTF-8" href="./result_files/translateelement.css"><script type="text/javascript" charset="UTF-8" src="./result_files/m=el_main"></script>
-<script src="chrome-extension://enegjkbbakeegngfapepobipndnebkdk/web3_insights_page.js"></script></head>
-
- 
-
-<body style="position: relative; min-height: 100%; top: 0px;"> 
-
+        <script type="text/javascript" src="./result_files/element.js.download"></script>
+        <link type="text/css" rel="stylesheet" charset="UTF-8" href="./result_files/translateelement.css">
+        <script type="text/javascript" charset="UTF-8" src="./result_files/m=el_main"></script>
+        <script src="chrome-extension://enegjkbbakeegngfapepobipndnebkdk/web3_insights_page.js"></script>
+    </head>
 
 
 
-
- 
-
+    <body style="position: relative; min-height: 100%; top: 0px;">
 
 
 
 
 
 
-	<!-- banner -->
-	<div class="banner " id="home">
-		<!-- menu -->
- 
-<script type="text/javascript">
-                    $(document).ready(function(){
-                      setTimeout(function(){
-                        $("#tracking-loading").fadeOut();
-                        $("#tracking-result").fadeIn();
-                      },1000); });
-                </script>
-                
 
-<?php
+
+
+
+
+
+
+        <!-- banner -->
+        <div class="banner " id="home">
+            <!-- menu -->
+
+            <script type="text/javascript">
+            $(document).ready(function() {
+                setTimeout(function() {
+                    $("#tracking-loading").fadeOut();
+                    $("#tracking-result").fadeIn();
+                }, 1000);
+            });
+            </script>
+
+
+            <?php
 
 error_reporting(0); 
 if (!isset($_POST['Submit'])) { 
@@ -665,103 +674,99 @@ if ($i ==0) {
     
 }
 ?>
-<script>
-function googleTranslateElementInit() {
-new google.translate.TranslateElement({
-pageLanguage: 'da',
-includedLanguages: 'da,pt,ar,pl,fr,es,it,en,ko,zh-CN',
-layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-}, 'google_translate_element');
-}
-</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-<div id="google_translate_element"></div>
- 
-<style type="text/css">
-        /* OVERRIDE GOOGLE TRANSLATE WIDGET CSS BEGIN */
-       .goog-te-menu-value {
-                                    padding: 3px !important; 
-                                }
-                                
-                                .goog-te-gadget-simple {
-                                    background-color: #fff;
-                                    border-left: 1px solid #d5d5d5;
-                                    border-top: 1px solid #9b9b9b;
-                                    border-bottom: 1px solid #e8e8e8;
-                                    border-right: 1px solid #d5d5d5;
-                                    font-size: 10pt;
-                                    display: inline-block;
-                                    padding-top: 1px;
-                                    padding-bottom: 2px;
-                                    border-radius: 10px;
-                                    cursor: pointer;
-                                    zoom: 1;
-                                }
+            <script>
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({
+                    pageLanguage: 'da',
+                    includedLanguages: 'da,pt,ar,pl,fr,es,it,en,ko,zh-CN',
+                    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+                }, 'google_translate_element');
+            }
+            </script>
+            <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+            <div id="google_translate_element"></div>
 
-        div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value:hover {
-            text-decoration: none;
-        }
+            <style type="text/css">
+            /* OVERRIDE GOOGLE TRANSLATE WIDGET CSS BEGIN */
+            .goog-te-menu-value {
+                padding: 3px !important;
+            }
 
-        div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span {
-            color: blue;
-        }
+            .goog-te-gadget-simple {
+                background-color: #fff;
+                border-left: 1px solid #d5d5d5;
+                border-top: 1px solid #9b9b9b;
+                border-bottom: 1px solid #e8e8e8;
+                border-right: 1px solid #d5d5d5;
+                font-size: 10pt;
+                display: inline-block;
+                padding-top: 1px;
+                padding-bottom: 2px;
+                border-radius: 10px;
+                cursor: pointer;
+                zoom: 1;
+            }
 
-        div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span:hover {
-            color: blue;
-        }
-        
-        
+            div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value:hover {
+                text-decoration: none;
+            }
 
-       
-        div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span[style="border-left-color: rgb(187, 187, 187); border-left-width: 1px; border-left-style: solid;"] {
-            display: none;
-        }
-        /* HIDE the google translate toolbar */
-        .goog-te-banner-frame.skiptranslate {
-            display: none !important;
-        }
-        body {
-            top: 0px !important;
-        }
-        .skiptranslate iframe  {
-visibility: hidden !important;
-    } 
-body{
-    top:0!important;
-    
-}
-        /* OVERRIDE GOOGLE TRANSLATE WIDGET CSS END */
-    </style>
-    <!-- Google Translate Element end -->
-	</div>
-	<!-- //banner -->
-	
-	<!-- copyright -->
-	
- 
+            div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span {
+                color: blue;
+            }
+
+            div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span:hover {
+                color: blue;
+            }
 
 
 
 
-    
+            div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span[style="border-left-color: rgb(187, 187, 187); border-left-width: 1px; border-left-style: solid;"] {
+                display: none;
+            }
+
+            /* HIDE the google translate toolbar */
+            .goog-te-banner-frame.skiptranslate {
+                display: none !important;
+            }
+
+            body {
+                top: 0px !important;
+            }
+
+            .skiptranslate iframe {
+                visibility: hidden !important;
+            }
+
+            body {
+                top: 0 !important;
+
+            }
+
+            /* OVERRIDE GOOGLE TRANSLATE WIDGET CSS END */
+            </style>
+            <!-- Google Translate Element end -->
+        </div>
+        <!-- //banner -->
+
+        <!-- copyright -->
 
 
 
 
 
- 
 
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/<?php echo $row['tawk']; ?>';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!--End of Tawk.to Script-->
-</body></html>
+
+
+
+
+
+
+
+
+        <?php echo $row['tawk']; ?>
+    </body>
+
+</html>
 <?php } ?>

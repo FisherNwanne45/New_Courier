@@ -235,7 +235,7 @@ if(isset($_SESSION['login_user'])){
 
                     </form>
                     <div class="social-login">
-                        <h3><img src="../wp-content/uploads/2020/11/omni_logistics_logo_tagline-1.png" width="150px">
+                        <h3><img src="img/<?= htmlspecialchars($row['image']) ?>" width="150" alt="">
                         </h3>
                         <div class="social-icons">
                             <script>
